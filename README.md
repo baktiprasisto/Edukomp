@@ -1,4 +1,5 @@
 Edukomp 💻🎓
+
 A simple bootcamp platform for future Fullstack Web Developers.
 
 Edukomp is an early-stage web-based learning platform that aims to provide courses in:
